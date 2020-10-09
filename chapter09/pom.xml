@@ -13,6 +13,8 @@
   <modules>
   	<module>base-dao</module>
   	<module>transactions-annotation</module>
+  	<module>transactions-xml</module>
+  	<module>transactions-programmatic</module>
   </modules>
   
   <dependencyManagement>
