@@ -1,4 +1,4 @@
-/*package com.apress.prospring5.ch9.config;
+package com.apress.prospring5.ch9.config;
 
 import com.atomikos.jdbc.AtomikosDataSourceBean;
 import com.mysql.cj.jdbc.MysqlXADataSource;
@@ -19,9 +19,9 @@ import java.util.Properties;
 
 import static org.hibernate.cfg.AvailableSettings.*;
 
-*//**
+/**
  * Created by iuliana.cosmina on 4/29/17.
- *//*
+ */
 @Configuration
 @EnableJpaRepositories
 public class XAJpaConfig {
@@ -47,9 +47,9 @@ public class XAJpaConfig {
 	@Bean
 	public Properties xaAProperties() {
 		Properties xaProp = new Properties();
-		xaProp.put("databaseName", "musicdb_a");
-		xaProp.put("user", "prospring5_A");
-		xaProp.put("password", "prospring5_A");
+		xaProp.put("databaseName", "MUSICDB_A");
+		xaProp.put("user", "spring5_A");
+		xaProp.put("password", "spring5_A");
 		return xaProp;
 	}
 
@@ -72,9 +72,9 @@ public class XAJpaConfig {
 	@Bean
 	public Properties xaBProperties() {
 		Properties xaProp = new Properties();
-		xaProp.put("databaseName", "musicdb_b");
-		xaProp.put("user", "prospring5_B");
-		xaProp.put("password", "prospring5_B");
+		xaProp.put("databaseName", "MUSICDB_B");
+		xaProp.put("user", "spring5_B");
+		xaProp.put("password", "spring5_B");
 		return xaProp;
 	}
 
@@ -126,4 +126,3 @@ public class XAJpaConfig {
 		return factoryBean.getObject();
 	}
 }
-*/

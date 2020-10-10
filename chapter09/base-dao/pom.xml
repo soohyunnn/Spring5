@@ -34,11 +34,26 @@
 	    <artifactId>guava</artifactId>
 	    <version>21.0</version>
 	</dependency>
+	<!-- h2database -->
 	<dependency>
 	    <groupId>com.h2database</groupId>
 	    <artifactId>h2</artifactId>
 	</dependency>
+
+	<!-- MySQL connector/j -->
+	<dependency>
+	    <groupId>mysql</groupId>
+	    <artifactId>mysql-connector-java</artifactId>
+	    <version>8.0.17</version>
+	</dependency>
+
+	<dependency>
+	    <groupId>com.atomikos</groupId>
+	    <artifactId>transactions-hibernate4</artifactId>
+	    <version>4.0.4</version>
+	</dependency>
 	
+
   </dependencies>
   
 </project>
