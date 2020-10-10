@@ -1,0 +1,111 @@
+20-10-10 21:08:56,408 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog13.log
+20-10-10 21:08:57,748 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:08:57,961 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog14.log
+20-10-10 21:10:32,938 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog15.log
+20-10-10 21:10:34,274 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:10:34,469 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog16.log
+20-10-10 21:16:42,846 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog17.log
+20-10-10 21:16:44,502 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:16:44,759 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog18.log
+20-10-10 21:16:53,577 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog18.log
+20-10-10 21:16:53,577 [main] Done read of logfile
+20-10-10 21:16:53,578 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog18.log
+20-10-10 21:16:54,943 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:16:55,177 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog19.log
+20-10-10 21:18:33,267 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog19.log
+20-10-10 21:18:33,267 [main] Done read of logfile
+20-10-10 21:18:33,267 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog19.log
+20-10-10 21:18:34,566 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:18:34,772 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog20.log
+20-10-10 21:19:20,643 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog20.log
+20-10-10 21:19:20,644 [main] Done read of logfile
+20-10-10 21:19:20,644 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog20.log
+20-10-10 21:19:21,986 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:26:28,033 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog21.log
+20-10-10 21:26:28,057 [main] Done read of logfile
+20-10-10 21:26:28,057 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog21.log
+20-10-10 21:26:29,330 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:27:10,923 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog22.log
+20-10-10 21:27:10,948 [main] Done read of logfile
+20-10-10 21:27:10,948 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog22.log
+20-10-10 21:27:12,308 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:28:56,409 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog23.log
+20-10-10 21:28:56,432 [main] Done read of logfile
+20-10-10 21:28:56,432 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog23.log
+20-10-10 21:28:57,768 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:35:49,348 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog24.log
+20-10-10 21:36:16,032 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog24.log
+20-10-10 21:36:16,056 [main] Done read of logfile
+20-10-10 21:36:16,056 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog24.log
+20-10-10 21:36:17,451 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-10 21:36:21,655 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog25.log
