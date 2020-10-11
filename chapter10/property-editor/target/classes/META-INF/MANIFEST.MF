@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: property-editor
+Implementation-Version: 2.0.6.RELEASE
+Built-By: sksms
+Implementation-Vendor-Id: com.apress.prospring5
+Build-Jdk: 1.8.0_201-1-ojdkbuild
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/chapter10/property-editor
+Created-By: Maven Integration for Eclipse
+
