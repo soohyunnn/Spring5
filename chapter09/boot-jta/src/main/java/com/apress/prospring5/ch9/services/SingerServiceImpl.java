@@ -23,6 +23,7 @@ public class SingerServiceImpl implements SingerService {
 
 	@Override
 	public Singer save(Singer singer) {
+		System.out.println("singer:::" + singer);
 		jmsTemplate.convertAndSend("singers", "방금 저장됨:" + singer);
 		if(singer == null) {
 			throw new AsyncXAResourcesException("잘못된 상황의 시뮬레이션");

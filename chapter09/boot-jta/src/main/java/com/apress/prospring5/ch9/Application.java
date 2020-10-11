@@ -30,6 +30,7 @@ public class Application implements CommandLineRunner {
 
 	@Override public void run(String... args) throws Exception {
 		Singer singer = new Singer();
+		singer.setId(1L);
 		singer.setFirstName("John");
 		singer.setLastName("Mayer");
 		singer.setBirthDate(new Date(

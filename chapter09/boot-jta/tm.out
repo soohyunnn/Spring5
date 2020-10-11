@@ -1,5 +1,7 @@
-20-10-10 21:08:56,408 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog13.log
-20-10-10 21:08:57,748 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 11:51:21,543 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog36.log
+20-10-11 11:51:21,565 [main] Done read of logfile
+20-10-11 11:51:21,566 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog36.log
+20-10-11 11:51:22,866 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -7,9 +9,11 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:08:57,961 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog14.log
-20-10-10 21:10:32,938 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog15.log
-20-10-10 21:10:34,274 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 11:54:12,940 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog37.log
+20-10-11 11:54:18,137 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog37.log
+20-10-11 11:54:18,158 [main] Done read of logfile
+20-10-11 11:54:18,159 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog37.log
+20-10-11 11:54:19,643 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -17,9 +21,9 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:10:34,469 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog16.log
-20-10-10 21:16:42,846 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog17.log
-20-10-10 21:16:44,502 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 11:54:43,654 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog38.log
+20-10-11 11:54:49,452 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\log\tmlog-1.log
+20-10-11 11:54:50,745 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -27,11 +31,11 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:16:44,759 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog18.log
-20-10-10 21:16:53,577 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog18.log
-20-10-10 21:16:53,577 [main] Done read of logfile
-20-10-10 21:16:53,578 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog18.log
-20-10-10 21:16:54,943 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 11:55:07,962 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\log\tmlog0.log
+20-10-11 11:55:13,473 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\log\tmlog0.log
+20-10-11 11:55:13,500 [main] Done read of logfile
+20-10-11 11:55:13,500 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\log\tmlog0.log
+20-10-11 11:55:14,912 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -39,11 +43,11 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:16:55,177 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog19.log
-20-10-10 21:18:33,267 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog19.log
-20-10-10 21:18:33,267 [main] Done read of logfile
-20-10-10 21:18:33,267 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog19.log
-20-10-10 21:18:34,566 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 11:56:15,081 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\log\tmlog1.log
+20-10-11 11:56:27,721 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\log\tmlog1.log
+20-10-11 11:56:27,742 [main] Done read of logfile
+20-10-11 11:56:27,743 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\log\tmlog1.log
+20-10-11 11:56:28,982 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -51,11 +55,11 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:18:34,772 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog20.log
-20-10-10 21:19:20,643 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog20.log
-20-10-10 21:19:20,644 [main] Done read of logfile
-20-10-10 21:19:20,644 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog20.log
-20-10-10 21:19:21,986 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 11:56:46,759 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\log\tmlog2.log
+20-10-11 11:56:54,125 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog38.log
+20-10-11 11:56:54,147 [main] Done read of logfile
+20-10-11 11:56:54,148 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog38.log
+20-10-11 11:56:55,410 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -63,10 +67,61 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:26:28,033 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog21.log
-20-10-10 21:26:28,057 [main] Done read of logfile
-20-10-10 21:26:28,057 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog21.log
-20-10-10 21:26:29,330 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 12:09:53,089 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog39.log
+20-10-11 12:09:53,112 [main] Done read of logfile
+20-10-11 12:09:53,112 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog39.log
+20-10-11 13:13:13,559 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog40.log
+20-10-11 13:13:13,578 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100024 with state COMMITTING
+20-10-11 13:13:13,579 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100024 with state COMMITTING
+20-10-11 13:13:13,580 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200024 with state COMMITTING
+20-10-11 13:13:13,580 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200024 with state COMMITTING
+20-10-11 13:13:13,581 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300024 with state COMMITTING
+20-10-11 13:13:13,582 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300024 with state COMMITTING
+20-10-11 13:13:13,582 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400024 with state COMMITTING
+20-10-11 13:13:13,582 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400024 with state COMMITTING
+20-10-11 13:13:13,583 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500024 with state COMMITTING
+20-10-11 13:13:13,583 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500024 with state COMMITTING
+.
+20-10-11 13:13:13,584 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600024 with state COMMITTING
+20-10-11 13:13:13,584 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600024 with state COMMITTING
+20-10-11 13:13:13,585 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700024 with state COMMITTING
+20-10-11 13:13:13,585 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700024 with state COMMITTING
+20-10-11 13:13:13,586 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800024 with state COMMITTING
+20-10-11 13:13:13,587 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800024 with state COMMITTING
+20-10-11 13:13:13,587 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900024 with state COMMITTING
+20-10-11 13:13:13,588 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900024 with state COMMITTING
+20-10-11 13:13:13,588 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000024 with state COMMITTING
+20-10-11 13:13:13,589 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000024 with state COMMITTING
+.
+20-10-11 13:13:13,590 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100024 with state COMMITTING
+20-10-11 13:13:13,591 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100024 with state COMMITTING
+20-10-11 13:13:13,592 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200024 with state COMMITTING
+20-10-11 13:13:13,592 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200024 with state COMMITTING
+20-10-11 13:13:13,593 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300024 with state COMMITTING
+20-10-11 13:13:13,593 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300024 with state COMMITTING
+20-10-11 13:13:13,594 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400024 with state COMMITTING
+20-10-11 13:13:13,594 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400024 with state COMMITTING
+20-10-11 13:13:13,595 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500024 with state COMMITTING
+20-10-11 13:13:13,595 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500024 with state COMMITTING
+.
+20-10-11 13:13:13,596 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600024 with state COMMITTING
+20-10-11 13:13:13,596 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600024 with state COMMITTING
+20-10-11 13:13:13,597 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700024 with state COMMITTING
+20-10-11 13:13:13,597 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700024 with state COMMITTING
+20-10-11 13:13:13,597 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800024 with state COMMITTING
+20-10-11 13:13:13,597 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800024 with state COMMITTING
+20-10-11 13:13:13,598 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900024 with state COMMITTING
+20-10-11 13:13:13,598 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900024 with state COMMITTING
+20-10-11 13:13:13,598 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000024 with state COMMITTING
+20-10-11 13:13:13,599 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000024 with state COMMITTING
+.
+20-10-11 13:13:13,599 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100024 with state COMMITTING
+20-10-11 13:13:13,599 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100024 with state COMMITTING
+20-10-11 13:13:13,600 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200024 with state COMMITTING
+20-10-11 13:13:13,600 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200024 with state COMMITTING
+20-10-11 13:13:13,600 [main] Done read of logfile
+20-10-11 13:13:13,600 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog40.log
+20-10-11 13:13:14,925 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -74,10 +129,11 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:27:10,923 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog22.log
-20-10-10 21:27:10,948 [main] Done read of logfile
-20-10-10 21:27:10,948 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog22.log
-20-10-10 21:27:12,308 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 13:15:04,550 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog41.log
+20-10-11 13:15:12,566 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog41.log
+20-10-11 13:15:12,590 [main] Done read of logfile
+20-10-11 13:15:12,590 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog41.log
+20-10-11 13:15:14,059 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -85,10 +141,11 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:28:56,409 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog23.log
-20-10-10 21:28:56,432 [main] Done read of logfile
-20-10-10 21:28:56,432 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog23.log
-20-10-10 21:28:57,768 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 13:15:50,517 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog42.log
+20-10-11 13:16:20,215 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog42.log
+20-10-11 13:16:20,240 [main] Done read of logfile
+20-10-11 13:16:20,241 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog42.log
+20-10-11 13:16:21,604 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -96,11 +153,10 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:35:49,348 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog24.log
-20-10-10 21:36:16,032 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog24.log
-20-10-10 21:36:16,056 [main] Done read of logfile
-20-10-10 21:36:16,056 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog24.log
-20-10-10 21:36:17,451 [main] This method needs a transaction for the calling thread and none exists.
+20-10-11 13:20:22,422 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog43.log
+20-10-11 13:20:22,444 [main] Done read of logfile
+20-10-11 13:20:22,445 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog43.log
+20-10-11 13:20:23,998 [main] This method needs a transaction for the calling thread and none exists.
 Possible causes: either you didn't start a transaction,
 it rolledback due to timeout, or it was committed already.
 ACTIONS: You can try one of the following: 
@@ -108,4 +164,304 @@ ACTIONS: You can try one of the following:
 2. Make sure you didn't terminate it yet.
 3. Increase the transaction timeout to avoid automatic rollback of long transactions;
    check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
-20-10-10 21:36:21,655 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog25.log
+20-10-11 13:20:47,738 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog44.log
+20-10-11 13:21:05,728 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog44.log
+20-10-11 13:21:05,750 [main] Done read of logfile
+20-10-11 13:21:05,750 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog44.log
+20-10-11 13:21:07,209 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-11 13:23:15,330 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog45.log
+20-10-11 13:23:15,356 [main] Done read of logfile
+20-10-11 13:23:15,356 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog45.log
+20-10-11 13:29:42,242 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog46.log
+20-10-11 13:29:42,258 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100030 with state COMMITTING
+20-10-11 13:29:42,258 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100030 with state COMMITTING
+20-10-11 13:29:42,259 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200030 with state COMMITTING
+20-10-11 13:29:42,259 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200030 with state COMMITTING
+20-10-11 13:29:42,260 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300030 with state COMMITTING
+20-10-11 13:29:42,260 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300030 with state COMMITTING
+20-10-11 13:29:42,261 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400030 with state COMMITTING
+20-10-11 13:29:42,261 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400030 with state COMMITTING
+20-10-11 13:29:42,261 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500030 with state COMMITTING
+20-10-11 13:29:42,262 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500030 with state COMMITTING
+.
+20-10-11 13:29:42,262 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600030 with state COMMITTING
+20-10-11 13:29:42,262 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600030 with state COMMITTING
+20-10-11 13:29:42,263 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700030 with state COMMITTING
+20-10-11 13:29:42,263 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700030 with state COMMITTING
+20-10-11 13:29:42,264 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800030 with state COMMITTING
+20-10-11 13:29:42,264 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800030 with state COMMITTING
+20-10-11 13:29:42,264 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900030 with state COMMITTING
+20-10-11 13:29:42,265 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900030 with state COMMITTING
+20-10-11 13:29:42,265 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000030 with state COMMITTING
+20-10-11 13:29:42,265 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000030 with state COMMITTING
+.
+20-10-11 13:29:42,266 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100030 with state COMMITTING
+20-10-11 13:29:42,266 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100030 with state COMMITTING
+20-10-11 13:29:42,267 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200030 with state COMMITTING
+20-10-11 13:29:42,267 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200030 with state COMMITTING
+20-10-11 13:29:42,267 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300030 with state COMMITTING
+20-10-11 13:29:42,267 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300030 with state COMMITTING
+20-10-11 13:29:42,268 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400030 with state COMMITTING
+20-10-11 13:29:42,268 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400030 with state COMMITTING
+20-10-11 13:29:42,268 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500030 with state COMMITTING
+20-10-11 13:29:42,269 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500030 with state COMMITTING
+.
+20-10-11 13:29:42,269 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600030 with state COMMITTING
+20-10-11 13:29:42,269 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600030 with state COMMITTING
+20-10-11 13:29:42,270 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700030 with state COMMITTING
+20-10-11 13:29:42,270 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700030 with state COMMITTING
+20-10-11 13:29:42,271 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800030 with state COMMITTING
+20-10-11 13:29:42,271 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800030 with state COMMITTING
+20-10-11 13:29:42,271 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900030 with state COMMITTING
+20-10-11 13:29:42,271 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900030 with state COMMITTING
+20-10-11 13:29:42,272 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000030 with state COMMITTING
+20-10-11 13:29:42,272 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000030 with state COMMITTING
+.
+20-10-11 13:29:42,272 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100030 with state COMMITTING
+20-10-11 13:29:42,273 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100030 with state COMMITTING
+20-10-11 13:29:42,273 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200030 with state COMMITTING
+20-10-11 13:29:42,273 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200030 with state COMMITTING
+20-10-11 13:29:42,273 [main] Done read of logfile
+20-10-11 13:29:42,274 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog46.log
+20-10-11 13:29:43,712 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-11 13:30:32,203 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog47.log
+20-10-11 13:31:02,646 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog47.log
+20-10-11 13:31:02,668 [main] Done read of logfile
+20-10-11 13:31:02,669 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog47.log
+20-10-11 13:31:04,108 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-11 13:32:25,865 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog48.log
+20-10-11 13:32:25,887 [main] Done read of logfile
+20-10-11 13:32:25,888 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog48.log
+20-10-11 13:32:27,392 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-11 13:34:41,486 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog49.log
+20-10-11 13:34:41,507 [main] Done read of logfile
+20-10-11 13:34:41,507 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog49.log
+20-10-11 13:35:11,214 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog50.log
+20-10-11 13:35:11,230 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100034 with state COMMITTING
+20-10-11 13:35:11,231 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100034 with state COMMITTING
+20-10-11 13:35:11,231 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200034 with state COMMITTING
+20-10-11 13:35:11,232 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200034 with state COMMITTING
+20-10-11 13:35:11,233 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300034 with state COMMITTING
+20-10-11 13:35:11,233 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300034 with state COMMITTING
+20-10-11 13:35:11,233 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400034 with state COMMITTING
+20-10-11 13:35:11,233 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400034 with state COMMITTING
+20-10-11 13:35:11,234 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500034 with state COMMITTING
+20-10-11 13:35:11,234 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500034 with state COMMITTING
+.
+20-10-11 13:35:11,235 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600034 with state COMMITTING
+20-10-11 13:35:11,235 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600034 with state COMMITTING
+20-10-11 13:35:11,235 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700034 with state COMMITTING
+20-10-11 13:35:11,236 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700034 with state COMMITTING
+20-10-11 13:35:11,236 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800034 with state COMMITTING
+20-10-11 13:35:11,237 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800034 with state COMMITTING
+20-10-11 13:35:11,237 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900034 with state COMMITTING
+20-10-11 13:35:11,237 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900034 with state COMMITTING
+20-10-11 13:35:11,238 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000034 with state COMMITTING
+20-10-11 13:35:11,238 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000034 with state COMMITTING
+.
+20-10-11 13:35:11,239 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100034 with state COMMITTING
+20-10-11 13:35:11,239 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100034 with state COMMITTING
+20-10-11 13:35:11,239 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200034 with state COMMITTING
+20-10-11 13:35:11,240 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200034 with state COMMITTING
+20-10-11 13:35:11,240 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300034 with state COMMITTING
+20-10-11 13:35:11,240 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300034 with state COMMITTING
+20-10-11 13:35:11,241 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400034 with state COMMITTING
+20-10-11 13:35:11,241 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400034 with state COMMITTING
+20-10-11 13:35:11,241 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500034 with state COMMITTING
+20-10-11 13:35:11,242 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500034 with state COMMITTING
+.
+20-10-11 13:35:11,242 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600034 with state COMMITTING
+20-10-11 13:35:11,242 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600034 with state COMMITTING
+20-10-11 13:35:11,243 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700034 with state COMMITTING
+20-10-11 13:35:11,243 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700034 with state COMMITTING
+20-10-11 13:35:11,243 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800034 with state COMMITTING
+20-10-11 13:35:11,244 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800034 with state COMMITTING
+20-10-11 13:35:11,244 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900034 with state COMMITTING
+20-10-11 13:35:11,244 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900034 with state COMMITTING
+20-10-11 13:35:11,245 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000034 with state COMMITTING
+20-10-11 13:35:11,245 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000034 with state COMMITTING
+.
+20-10-11 13:35:11,245 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100034 with state COMMITTING
+20-10-11 13:35:11,245 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100034 with state COMMITTING
+20-10-11 13:35:11,246 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200034 with state COMMITTING
+20-10-11 13:35:11,246 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200034 with state COMMITTING
+20-10-11 13:35:11,246 [main] Done read of logfile
+20-10-11 13:35:11,247 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog50.log
+20-10-11 13:35:12,794 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-11 13:40:17,420 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog51.log
+20-10-11 13:40:17,443 [main] Done read of logfile
+20-10-11 13:40:17,443 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog51.log
+20-10-11 13:40:18,958 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-11 13:46:21,448 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog52.log
+20-10-11 13:46:21,473 [main] Done read of logfile
+20-10-11 13:46:21,474 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog52.log
+20-10-11 13:46:22,859 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-11 13:46:38,054 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog53.log
+20-10-11 13:47:04,574 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog53.log
+20-10-11 13:47:04,596 [main] Done read of logfile
+20-10-11 13:47:04,596 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog53.log
+20-10-11 13:47:05,943 [main] This method needs a transaction for the calling thread and none exists.
+Possible causes: either you didn't start a transaction,
+it rolledback due to timeout, or it was committed already.
+ACTIONS: You can try one of the following: 
+1. Make sure you started a transaction for the thread.
+2. Make sure you didn't terminate it yet.
+3. Increase the transaction timeout to avoid automatic rollback of long transactions;
+   check http://www.atomikos.com/Documentation/JtaProperties for how to do this.
+20-10-11 13:47:12,809 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog54.log
+20-10-11 13:49:32,494 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog54.log
+20-10-11 13:49:32,517 [main] Done read of logfile
+20-10-11 13:49:32,518 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog54.log
+20-10-11 13:51:16,302 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog55.log
+20-10-11 13:51:16,320 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100039 with state COMMITTING
+20-10-11 13:51:16,320 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100039 with state COMMITTING
+20-10-11 13:51:16,321 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200039 with state COMMITTING
+20-10-11 13:51:16,321 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200039 with state COMMITTING
+20-10-11 13:51:16,322 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300039 with state COMMITTING
+20-10-11 13:51:16,322 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300039 with state COMMITTING
+20-10-11 13:51:16,323 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400039 with state COMMITTING
+20-10-11 13:51:16,323 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400039 with state COMMITTING
+20-10-11 13:51:16,324 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500039 with state COMMITTING
+20-10-11 13:51:16,324 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500039 with state COMMITTING
+.
+20-10-11 13:51:16,324 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600039 with state COMMITTING
+20-10-11 13:51:16,324 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600039 with state COMMITTING
+20-10-11 13:51:16,325 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700039 with state COMMITTING
+20-10-11 13:51:16,325 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700039 with state COMMITTING
+20-10-11 13:51:16,326 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800039 with state COMMITTING
+20-10-11 13:51:16,326 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800039 with state COMMITTING
+20-10-11 13:51:16,327 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900039 with state COMMITTING
+20-10-11 13:51:16,327 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900039 with state COMMITTING
+20-10-11 13:51:16,327 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000039 with state COMMITTING
+20-10-11 13:51:16,327 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000039 with state COMMITTING
+.
+20-10-11 13:51:16,328 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100039 with state COMMITTING
+20-10-11 13:51:16,328 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100039 with state COMMITTING
+20-10-11 13:51:16,329 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200039 with state COMMITTING
+20-10-11 13:51:16,329 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200039 with state COMMITTING
+20-10-11 13:51:16,330 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300039 with state COMMITTING
+20-10-11 13:51:16,330 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300039 with state COMMITTING
+20-10-11 13:51:16,330 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400039 with state COMMITTING
+20-10-11 13:51:16,330 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400039 with state COMMITTING
+20-10-11 13:51:16,331 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500039 with state COMMITTING
+20-10-11 13:51:16,331 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500039 with state COMMITTING
+.
+20-10-11 13:51:16,332 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600039 with state COMMITTING
+20-10-11 13:51:16,332 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600039 with state COMMITTING
+20-10-11 13:51:16,333 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700039 with state COMMITTING
+20-10-11 13:51:16,333 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700039 with state COMMITTING
+20-10-11 13:51:16,333 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800039 with state COMMITTING
+20-10-11 13:51:16,333 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800039 with state COMMITTING
+20-10-11 13:51:16,334 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900039 with state COMMITTING
+20-10-11 13:51:16,334 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900039 with state COMMITTING
+20-10-11 13:51:16,335 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000039 with state COMMITTING
+20-10-11 13:51:16,335 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000039 with state COMMITTING
+.
+20-10-11 13:51:16,335 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100039 with state COMMITTING
+20-10-11 13:51:16,335 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100039 with state COMMITTING
+20-10-11 13:51:16,336 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200039 with state COMMITTING
+20-10-11 13:51:16,336 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200039 with state COMMITTING
+20-10-11 13:51:16,336 [main] Done read of logfile
+20-10-11 13:51:16,337 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog55.log
+20-10-11 13:53:17,792 [main] Starting read of logfile C:\Spring5\chapter09\boot-jta\out\tmlog56.log
+20-10-11 13:53:17,811 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100040 with state COMMITTING
+20-10-11 13:53:17,812 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000100040 with state COMMITTING
+20-10-11 13:53:17,812 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200040 with state COMMITTING
+20-10-11 13:53:17,813 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000200040 with state COMMITTING
+20-10-11 13:53:17,814 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300040 with state COMMITTING
+20-10-11 13:53:17,814 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000300040 with state COMMITTING
+20-10-11 13:53:17,815 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400040 with state COMMITTING
+20-10-11 13:53:17,815 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000400040 with state COMMITTING
+20-10-11 13:53:17,816 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500040 with state COMMITTING
+20-10-11 13:53:17,816 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000500040 with state COMMITTING
+.
+20-10-11 13:53:17,817 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600040 with state COMMITTING
+20-10-11 13:53:17,817 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000600040 with state COMMITTING
+20-10-11 13:53:17,817 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700040 with state COMMITTING
+20-10-11 13:53:17,818 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000700040 with state COMMITTING
+20-10-11 13:53:17,818 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800040 with state COMMITTING
+20-10-11 13:53:17,819 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000800040 with state COMMITTING
+20-10-11 13:53:17,819 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900040 with state COMMITTING
+20-10-11 13:53:17,819 [main] Local heuristic termination of coordinator 192.168.35.213.tm0000900040 with state COMMITTING
+20-10-11 13:53:17,820 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000040 with state COMMITTING
+20-10-11 13:53:17,820 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001000040 with state COMMITTING
+.
+20-10-11 13:53:17,821 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100040 with state COMMITTING
+20-10-11 13:53:17,821 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001100040 with state COMMITTING
+20-10-11 13:53:17,821 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200040 with state COMMITTING
+20-10-11 13:53:17,822 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001200040 with state COMMITTING
+20-10-11 13:53:17,822 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300040 with state COMMITTING
+20-10-11 13:53:17,822 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001300040 with state COMMITTING
+20-10-11 13:53:17,823 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400040 with state COMMITTING
+20-10-11 13:53:17,823 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001400040 with state COMMITTING
+20-10-11 13:53:17,823 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500040 with state COMMITTING
+20-10-11 13:53:17,824 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001500040 with state COMMITTING
+.
+20-10-11 13:53:17,824 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600040 with state COMMITTING
+20-10-11 13:53:17,825 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001600040 with state COMMITTING
+20-10-11 13:53:17,825 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700040 with state COMMITTING
+20-10-11 13:53:17,825 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001700040 with state COMMITTING
+20-10-11 13:53:17,826 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800040 with state COMMITTING
+20-10-11 13:53:17,826 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001800040 with state COMMITTING
+20-10-11 13:53:17,826 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900040 with state COMMITTING
+20-10-11 13:53:17,826 [main] Local heuristic termination of coordinator 192.168.35.213.tm0001900040 with state COMMITTING
+20-10-11 13:53:17,827 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000040 with state COMMITTING
+20-10-11 13:53:17,827 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002000040 with state COMMITTING
+.
+20-10-11 13:53:17,828 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100040 with state COMMITTING
+20-10-11 13:53:17,828 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002100040 with state COMMITTING
+20-10-11 13:53:17,828 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200040 with state COMMITTING
+20-10-11 13:53:17,828 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002200040 with state COMMITTING
+20-10-11 13:53:17,829 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002300040 with state COMMITTING
+20-10-11 13:53:17,829 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002300040 with state COMMITTING
+20-10-11 13:53:17,829 [main] Done read of logfile
+20-10-11 13:53:17,830 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog56.log
