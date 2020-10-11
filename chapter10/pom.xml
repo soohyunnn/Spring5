@@ -14,5 +14,7 @@
   	<module>property-editor</module>
   	<module>converter</module>
   	<module>converter-multiple-types</module>
+  	<module>custom-formatter</module>
+  	<module>spring-validator</module>
   </modules>
 </project>
