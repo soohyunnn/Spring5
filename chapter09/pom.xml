@@ -17,6 +17,7 @@
   	<module>transactions-programmatic</module>
   	<module>transactions-jta</module>
   	<module>boot-jta</module>
+  	<module>jsr349-custom</module>
   </modules>
   
   <dependencyManagement>
