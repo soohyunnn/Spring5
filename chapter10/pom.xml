@@ -16,5 +16,6 @@
   	<module>converter-multiple-types</module>
   	<module>custom-formatter</module>
   	<module>spring-validator</module>
+  	<module>jsr-349</module>
   </modules>
 </project>
