@@ -12,6 +12,9 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.PostConstruct;
 
+/**
+ * Created by iuliana.cosmina on 4/23/17.
+ */
 @Service
 public class DBInitializer {
 

@@ -7967,3 +7967,490 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-10-13 21:47:14,464 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-10-13 21:47:14,465 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-10-13 21:47:14,465 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 21:47:14,466 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 21:47:14,467 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:24:18,954 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:24:18,955 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:24:18,955 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:24:18,957 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:24:18,957 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:25:24,746 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:25:24,746 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:25:24,746 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:25:24,747 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:25:24,748 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:25:42,912 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:25:42,913 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:25:42,913 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:25:42,926 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:25:42,927 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:27:29,998 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:27:29,998 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:27:29,999 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:27:30,000 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:27:30,001 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:28:16,828 [Worker-45: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:base-task:2.0.6.RELEASE @ C:\Spring5\chapter11\base-task\pom.xml.
+2020-10-13 22:28:17,140 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:28:17,141 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:28:17,141 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:28:17,142 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:28:17,143 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:28:18,589 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:28:18,590 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:28:18,590 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:28:18,591 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:28:18,592 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:33:06,158 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:33:06,158 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:33:06,158 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:33:06,160 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:33:06,160 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:37:13,460 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:37:13,462 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:37:13,462 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:37:13,474 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:37:13,475 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:40:04,557 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:40:04,558 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:40:04,558 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:40:04,562 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:40:04,563 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:40:10,947 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:40:10,947 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:40:10,948 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:40:10,951 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:40:10,951 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:41:09,802 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:41:09,803 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:41:09,803 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:41:09,806 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:41:09,807 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:41:25,676 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:41:25,676 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:41:25,677 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:41:25,681 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:41:25,681 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:41:30,981 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:41:30,981 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:41:30,981 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:41:30,984 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:41:30,984 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:41:58,206 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:41:58,207 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:41:58,207 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:41:58,209 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:41:58,210 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:35,084 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:42:35,085 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:35,085 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:42:35,088 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:42:35,088 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:43,195 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:42:43,195 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:43,195 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:42:43,200 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:42:43,200 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:45,326 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:42:45,326 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:45,327 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:45,328 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:42:45,328 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:47,301 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:42:47,302 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:42:47,302 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:42:47,306 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:42:47,306 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:43:55,823 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:43:55,824 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:43:55,824 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:43:55,828 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:43:55,828 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:07,360 [Worker-59: Creating project "schduled-task"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:45:07,459 [Worker-59: Creating project "schduled-task"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /schduled-task/src/main/java
+2020-10-13 22:45:07,460 [Worker-59: Creating project "schduled-task"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /schduled-task/src/main/resources
+2020-10-13 22:45:07,463 [Worker-59: Creating project "schduled-task"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /schduled-task/src/main/resources
+2020-10-13 22:45:07,470 [Worker-59: Creating project "schduled-task"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /schduled-task/src/test/java
+2020-10-13 22:45:07,470 [Worker-59: Creating project "schduled-task"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /schduled-task/src/test/resources
+2020-10-13 22:45:08,187 [Worker-54: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.apress.prospring5:chapter11:0.0.1-SNAPSHOT @ C:\Spring5\chapter11\pom.xml.
+2020-10-13 22:45:08,561 [Worker-54: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:base-task:2.0.6.RELEASE @ C:\Spring5\chapter11\base-task\pom.xml.
+2020-10-13 22:45:08,942 [Worker-54: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:45:09,242 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:09,242 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:09,242 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:09,243 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:09,244 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:10,555 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:10,556 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:10,556 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:10,557 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:10,557 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:26,533 [Worker-49: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:45:26,775 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:26,775 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:26,775 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:26,776 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:26,776 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:28,132 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:28,132 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:28,132 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:28,134 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:28,134 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:40,999 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:41,000 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:41,000 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:41,002 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:41,003 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:51,704 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:51,705 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:51,705 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:51,706 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:51,707 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:53,431 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:53,432 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:53,432 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:45:53,434 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:45:53,434 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:20,277 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:46:20,278 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:20,278 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:20,279 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:46:20,279 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:24,328 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:46:24,329 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:24,329 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:24,330 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:46:24,330 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:26,030 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:46:26,030 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:26,031 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:46:26,032 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:46:26,032 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:04,441 [Worker-60: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.apress.prospring5:chapter11:0.0.1-SNAPSHOT @ C:\Spring5\chapter11\pom.xml.
+2020-10-13 22:47:04,781 [Worker-60: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:base-task:2.0.6.RELEASE @ C:\Spring5\chapter11\base-task\pom.xml.
+2020-10-13 22:47:05,099 [Worker-60: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:47:06,069 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:06,071 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:06,072 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:06,073 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:06,073 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:07,306 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:07,306 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:07,306 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:07,308 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:07,308 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:11,984 [Worker-58: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-dao: com.apress.prospring5:base-dao:2.0.6.RELEASE with classifier  to /base-dao/target/classes
+2020-10-13 22:47:34,024 [Worker-54: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:47:34,120 [Worker-54: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:47:34,222 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:34,223 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:34,223 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:34,224 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:34,224 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:35,721 [Worker-61: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:47:35,739 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:35,740 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:35,740 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:35,742 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:35,742 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:54,340 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:54,340 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:54,341 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:54,343 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:47:54,343 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:47:57,083 [Worker-59: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:47:57,101 [Worker-59: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:49:06,703 [Worker-62: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:49:06,835 [Worker-62: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:49:06,943 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:49:06,944 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:49:06,944 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:49:06,945 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:49:06,945 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:49:08,490 [Worker-57: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:49:08,507 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:49:08,507 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:49:08,508 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:49:08,509 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:49:08,509 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:49:15,695 [Worker-60: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:49:15,712 [Worker-60: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:49:55,060 [Worker-57: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:49:55,974 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.1.GA/usertype.core-6.0.1.GA.pom
+2020-10-13 22:49:56,228 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.1.GA/usertype.core-6.0.1.GA.pom
+2020-10-13 22:49:56,368 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.parent/6.0.1.GA/jadira.parent-6.0.1.GA.pom
+2020-10-13 22:49:56,531 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.parent/6.0.1.GA/jadira.parent-6.0.1.GA.pom
+2020-10-13 22:49:56,668 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.depmgmt/6.0.1.GA/jadira.depmgmt-6.0.1.GA.pom
+2020-10-13 22:49:56,813 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.depmgmt/6.0.1.GA/jadira.depmgmt-6.0.1.GA.pom
+2020-10-13 22:49:56,952 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-core-bom/1.1.29.Final/weld-core-bom-1.1.29.Final.pom
+2020-10-13 22:49:57,090 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-core-bom/1.1.29.Final/weld-core-bom-1.1.29.Final.pom
+2020-10-13 22:49:57,228 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-core-parent/1.1.29.Final/weld-core-parent-1.1.29.Final.pom
+2020-10-13 22:49:57,389 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-core-parent/1.1.29.Final/weld-core-parent-1.1.29.Final.pom
+2020-10-13 22:49:57,526 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/21/weld-parent-21.pom
+2020-10-13 22:49:57,684 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/21/weld-parent-21.pom
+2020-10-13 22:49:58,827 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/weld/weld-api-bom/1.1.Final/weld-api-bom-1.1.Final.pom
+2020-10-13 22:49:59,150 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/weld/weld-api-bom/1.1.Final/weld-api-bom-1.1.Final.pom
+2020-10-13 22:49:59,469 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2020-10-13 22:49:59,939 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2020-10-13 22:50:00,081 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.1.GA/usertype.spi-6.0.1.GA.pom
+2020-10-13 22:50:00,217 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.1.GA/usertype.spi-6.0.1.GA.pom
+2020-10-13 22:50:00,229 [Worker-57: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:50:00,403 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.1.GA/usertype.core-6.0.1.GA.jar
+2020-10-13 22:50:00,842 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.1.GA/usertype.core-6.0.1.GA.jar
+2020-10-13 22:50:00,966 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.1.GA/usertype.spi-6.0.1.GA.jar
+2020-10-13 22:50:01,114 [Worker-57: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.1.GA/usertype.spi-6.0.1.GA.jar
+2020-10-13 22:50:01,357 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:50:01,357 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:01,357 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:01,359 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:50:01,359 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:02,662 [Worker-65: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:50:02,756 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:50:02,756 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:02,757 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:02,758 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:50:02,758 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:03,222 [Worker-65: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.1.GA/usertype.core-6.0.1.GA-sources.jar
+2020-10-13 22:50:03,911 [Worker-65: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.1.GA/usertype.core-6.0.1.GA-sources.jar
+2020-10-13 22:50:03,997 [Worker-65: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.core:6.0.1.GA
+2020-10-13 22:50:04,027 [Worker-57: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:50:04,050 [Worker-57: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:50:04,124 [Worker-65: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.1.GA/usertype.spi-6.0.1.GA-sources.jar
+2020-10-13 22:50:04,274 [Worker-65: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.1.GA/usertype.spi-6.0.1.GA-sources.jar
+2020-10-13 22:50:04,371 [Worker-65: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.spi:6.0.1.GA
+2020-10-13 22:50:05,141 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:50:05,142 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:05,142 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:05,143 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:50:05,143 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:05,560 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.spi:6.0.1.GA
+2020-10-13 22:50:05,567 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.spi:6.0.1.GA
+2020-10-13 22:50:06,182 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:50:06,182 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:06,182 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:06,183 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:50:06,184 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:50:49,119 [Worker-65: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:50:49,136 [Worker-65: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:51:22,300 [Worker-58: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:51:22,976 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.0.GA/usertype.core-6.0.0.GA.pom
+2020-10-13 22:51:23,234 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.0.GA/usertype.core-6.0.0.GA.pom
+2020-10-13 22:51:23,370 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.parent/6.0.0.GA/jadira.parent-6.0.0.GA.pom
+2020-10-13 22:51:23,532 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.parent/6.0.0.GA/jadira.parent-6.0.0.GA.pom
+2020-10-13 22:51:23,668 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.depmgmt/6.0.0.GA/jadira.depmgmt-6.0.0.GA.pom
+2020-10-13 22:51:23,813 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.depmgmt/6.0.0.GA/jadira.depmgmt-6.0.0.GA.pom
+2020-10-13 22:51:23,967 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.0.GA/usertype.spi-6.0.0.GA.pom
+2020-10-13 22:51:24,105 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.0.GA/usertype.spi-6.0.0.GA.pom
+2020-10-13 22:51:24,118 [Worker-58: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:51:24,294 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.0.GA/usertype.core-6.0.0.GA.jar
+2020-10-13 22:51:24,809 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.0.GA/usertype.core-6.0.0.GA.jar
+2020-10-13 22:51:24,934 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.0.GA/usertype.spi-6.0.0.GA.jar
+2020-10-13 22:51:25,096 [Worker-58: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.0.GA/usertype.spi-6.0.0.GA.jar
+2020-10-13 22:51:25,322 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:25,323 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:25,323 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:25,324 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:25,324 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:26,570 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:51:26,699 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:26,700 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:26,700 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:26,701 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:26,701 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:27,130 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.0.GA/usertype.core-6.0.0.GA-sources.jar
+2020-10-13 22:51:27,425 [Worker-64: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:51:27,443 [Worker-64: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:51:27,811 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/6.0.0.GA/usertype.core-6.0.0.GA-sources.jar
+2020-10-13 22:51:27,879 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.core:6.0.0.GA
+2020-10-13 22:51:28,154 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.0.GA/usertype.spi-6.0.0.GA-sources.jar
+2020-10-13 22:51:28,364 [Worker-58: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/6.0.0.GA/usertype.spi-6.0.0.GA-sources.jar
+2020-10-13 22:51:28,503 [Worker-58: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.spi:6.0.0.GA
+2020-10-13 22:51:28,809 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:28,810 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:28,810 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:28,811 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:28,811 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:29,690 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.core:6.0.0.GA
+2020-10-13 22:51:29,698 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.spi:6.0.0.GA
+2020-10-13 22:51:29,703 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.core:6.0.0.GA
+2020-10-13 22:51:29,707 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.spi:6.0.0.GA
+2020-10-13 22:51:29,920 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:29,920 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:29,920 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:29,921 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:29,921 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:35,784 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:51:35,901 [Worker-66: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:51:36,002 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:36,002 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:36,002 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:36,004 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:36,004 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:37,641 [Worker-57: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:51:37,659 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:37,659 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:37,660 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:37,661 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:37,661 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:41,101 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:base-task:2.0.6.RELEASE @ C:\Spring5\chapter11\base-task\pom.xml.
+2020-10-13 22:51:41,343 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:51:41,352 [Worker-66: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:51:41,519 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:41,519 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:41,519 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:41,520 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:41,521 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:42,082 [Worker-66: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:51:42,100 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:42,101 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:42,102 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:42,103 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:42,103 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:43,467 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:43,467 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:43,468 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-10-13 22:51:43,481 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:51:43,482 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:51:46,040 [Worker-65: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:51:46,057 [Worker-65: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:52:22,379 [Worker-62: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:base-task:2.0.6.RELEASE @ C:\Spring5\chapter11\base-task\pom.xml.
+2020-10-13 22:52:23,271 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/5.0.0.GA/usertype.core-5.0.0.GA.pom
+2020-10-13 22:52:23,419 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/5.0.0.GA/usertype.core-5.0.0.GA.pom
+2020-10-13 22:52:23,565 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.parent/5.0.0.GA/jadira.parent-5.0.0.GA.pom
+2020-10-13 22:52:23,741 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.parent/5.0.0.GA/jadira.parent-5.0.0.GA.pom
+2020-10-13 22:52:23,895 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.depmgmt/5.0.0.GA/jadira.depmgmt-5.0.0.GA.pom
+2020-10-13 22:52:24,051 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/framework/jadira.depmgmt/5.0.0.GA/jadira.depmgmt-5.0.0.GA.pom
+2020-10-13 22:52:24,209 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/5.0.0.GA/usertype.spi-5.0.0.GA.pom
+2020-10-13 22:52:24,359 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/5.0.0.GA/usertype.spi-5.0.0.GA.pom
+2020-10-13 22:52:24,553 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/5.0.0.GA/usertype.core-5.0.0.GA.jar
+2020-10-13 22:52:25,026 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/5.0.0.GA/usertype.core-5.0.0.GA.jar
+2020-10-13 22:52:25,161 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/5.0.0.GA/usertype.spi-5.0.0.GA.jar
+2020-10-13 22:52:25,332 [Worker-62: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/5.0.0.GA/usertype.spi-5.0.0.GA.jar
+2020-10-13 22:52:25,561 [Worker-62: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:52:25,576 [Worker-62: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:52:25,774 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:25,774 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:25,774 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:25,775 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:25,775 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:26,277 [Worker-66: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:52:26,392 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:26,393 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:26,394 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-10-13 22:52:26,402 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:26,402 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:26,680 [Worker-67: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:52:26,791 [Worker-67: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:52:26,887 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:26,888 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:26,888 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:26,889 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:26,889 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:27,426 [Worker-54: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/5.0.0.GA/usertype.core-5.0.0.GA-sources.jar
+2020-10-13 22:52:28,175 [Worker-54: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.core/5.0.0.GA/usertype.core-5.0.0.GA-sources.jar
+2020-10-13 22:52:28,249 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.core:5.0.0.GA
+2020-10-13 22:52:28,327 [Worker-65: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:52:28,357 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:28,358 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:28,358 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:28,359 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:28,359 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:28,388 [Worker-54: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/5.0.0.GA/usertype.spi-5.0.0.GA-sources.jar
+2020-10-13 22:52:28,552 [Worker-54: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jadira/usertype/usertype.spi/5.0.0.GA/usertype.spi-5.0.0.GA-sources.jar
+2020-10-13 22:52:28,608 [Worker-54: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.spi:5.0.0.GA
+2020-10-13 22:52:29,437 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:29,437 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:29,437 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:29,438 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:29,439 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:29,752 [Worker-62: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.core:5.0.0.GA
+2020-10-13 22:52:29,759 [Worker-62: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jadira.usertype:usertype.spi:5.0.0.GA
+2020-10-13 22:52:30,517 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:30,517 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:30,517 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:30,518 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:30,518 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:30,646 [Worker-65: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:52:30,662 [Worker-65: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:52:40,499 [Worker-57: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:52:40,639 [Worker-57: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:52:40,740 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:40,740 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:40,741 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:40,742 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:40,742 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:42,191 [Worker-57: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:52:42,210 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:42,210 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:42,211 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:52:42,212 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:52:42,212 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:05,637 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:base-task:2.0.6.RELEASE @ C:\Spring5\chapter11\base-task\pom.xml.
+2020-10-13 22:53:05,905 [Worker-66: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.apress.prospring5:schduled-task:2.0.6.RELEASE @ C:\Spring5\chapter11\schduled-task\pom.xml.
+2020-10-13 22:53:05,913 [Worker-66: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:53:06,087 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:53:06,087 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:06,087 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:06,088 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:53:06,088 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:06,293 [Worker-66: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-13 22:53:06,310 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:53:06,311 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:06,311 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:06,312 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:53:06,312 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:07,709 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:53:07,710 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:07,711 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-10-13 22:53:07,719 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:53:07,719 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:13,719 [Worker-54: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:53:13,736 [Worker-54: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:53:56,094 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:53:56,094 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:53:56,094 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:53:56,099 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:53:56,100 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:08,292 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:54:08,292 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:08,293 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:54:08,297 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:54:08,298 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:28,024 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:54:28,024 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:28,024 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:54:28,027 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:54:28,027 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:30,437 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:54:30,437 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:30,438 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:30,439 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:54:30,439 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:33,265 [Worker-57: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:54:33,282 [Worker-57: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:54:57,324 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:54:57,325 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:54:57,325 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:54:57,326 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:54:57,326 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:55:05,441 [Worker-64: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:55:05,457 [Worker-64: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:55:26,841 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:55:26,842 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:55:26,843 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:55:26,844 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:55:26,844 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:55:28,655 [Worker-62: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:55:28,672 [Worker-62: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:55:35,592 [Worker-64: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:55:35,610 [Worker-64: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:55:57,435 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:55:57,436 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:55:57,436 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:55:57,438 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:55:57,438 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:56:43,108 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:56:43,108 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:56:43,108 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-13 22:56:43,112 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-13 22:56:43,112 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-13 22:56:54,499 [Worker-60: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
