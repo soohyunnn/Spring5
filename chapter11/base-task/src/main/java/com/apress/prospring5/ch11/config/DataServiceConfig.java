@@ -18,6 +18,9 @@ import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 import java.util.Properties;
 
+/**
+ * Created by iuliana.cosmina on 4/29/17.
+ */
 @Configuration
 @EnableJpaRepositories(basePackages = {"com.apress.prospring5.ch11.repos"})
 @ComponentScan(basePackages  = {"com.apress.prospring5.ch11"} )
