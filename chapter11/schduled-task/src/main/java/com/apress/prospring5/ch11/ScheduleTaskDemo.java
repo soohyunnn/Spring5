@@ -1,7 +1,6 @@
 package com.apress.prospring5.ch11;
 
 import com.apress.prospring5.ch11.config.AppConfig;
-import com.apress.prospring5.ch11.services.CarService;
 import com.apress.prospring5.ch11.services.CarServiceImpl;
 
 import org.slf4j.Logger;
@@ -16,13 +15,7 @@ public class ScheduleTaskDemo {
 	
 	public static void main(String... args) throws Exception {
 		GenericApplicationContext ctx = new AnnotationConfigApplicationContext(AppConfig.class);
-		CarService carService = ctx.getBean("carService", CarService.class);
-		
-         while (!carService.isDone()) {
-            logger.info("스케줄된 잡이 끝나기를 기다림 ...");
-            Thread.sleep(10);
-         }
-		
+
 		System.in.read();
 		ctx.close();
 	}
