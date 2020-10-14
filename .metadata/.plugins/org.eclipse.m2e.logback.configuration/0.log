@@ -8454,3 +8454,31 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-10-13 22:56:43,112 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-10-13 22:56:43,112 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-10-13 22:56:54,499 [Worker-60: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-13 22:56:54,516 [Worker-60: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-14 15:40:04,296 [Worker-5: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier  to /base-task/target/classes
+2020-10-14 15:40:05,412 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:40:05,417 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:40:05,419 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-14 15:40:05,480 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:40:05,481 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:40:18,007 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:40:18,011 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:40:18,012 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-14 15:40:18,014 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:40:18,015 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:40:24,373 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:40:24,374 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:40:24,375 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-14 15:40:24,376 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:40:24,376 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:40:48,821 [Worker-5: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-14 15:40:48,844 [Worker-5: Launching ScheduleTaskDemo] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/base-task: com.apress.prospring5:base-task:2.0.6.RELEASE with classifier null to /base-task/target/classes
+2020-10-14 15:43:16,432 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:43:16,433 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:43:16,433 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-14 15:43:16,437 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:43:16,438 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:43:20,755 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-14 15:43:20,756 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-14 15:43:20,756 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-14 15:43:20,761 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
