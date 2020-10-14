@@ -15,6 +15,7 @@
   	<module>schduled-task</module>
   	<module>scheduled-task-annotation</module>
   	<module>async-task</module>
+  	<module>task-executor</module>
   </modules>
   
   <dependencyManagement>

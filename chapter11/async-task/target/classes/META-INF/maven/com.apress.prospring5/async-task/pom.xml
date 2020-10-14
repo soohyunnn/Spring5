@@ -47,12 +47,5 @@
 		</dependency>
 		<!--필수 END -->
 
-		<!-- 이 프로젝트에서 필요한 라이브러리 -->
-<!-- 		<dependency>
-			<groupId>javax.persistence</groupId>
-			<artifactId>javax.persistence-api</artifactId>
-			<version>2.2</version>
-		</dependency>
- -->
 	</dependencies>
 </project>
