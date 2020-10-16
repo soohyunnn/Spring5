@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 15 23:09:39 KST 2020
+javax.transaction-api-1.2-sources.jar>central=
+javax.transaction-api-1.2.jar>central=
+javax.transaction-api-1.2.pom>central=
