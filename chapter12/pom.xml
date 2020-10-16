@@ -5,12 +5,25 @@
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.0.6.RELEASE</version>
   </parent>
-  <groupId>com.apress.prospring</groupId>
+  <groupId>com.apress.prospring5</groupId>
   <artifactId>chapter12</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>chapter12</name>
   <modules>
   	<module>base-remote</module>
+  	<module>rest</module>
   </modules>
+  
+  
+  <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.apress.prospring5</groupId>
+                <artifactId>base-remote</artifactId>
+                <version>2.0.6.RELEASE</version>
+            </dependency>
+        </dependencies>
+ </dependencyManagement>
+  
 </project>

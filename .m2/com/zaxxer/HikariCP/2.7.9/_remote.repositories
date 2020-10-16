@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 15 23:09:38 KST 2020
+HikariCP-2.7.9.jar>central=
+HikariCP-2.7.9-sources.jar>central=
+HikariCP-2.7.9.pom>central=
