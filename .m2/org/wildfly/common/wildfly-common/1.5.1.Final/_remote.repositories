@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 11:46:34 KST 2020
+wildfly-common-1.5.1.Final.jar>central=
+wildfly-common-1.5.1.Final.pom>central=
+wildfly-common-1.5.1.Final-sources.jar>central=

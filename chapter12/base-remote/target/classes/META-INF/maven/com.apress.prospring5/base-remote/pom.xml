@@ -45,5 +45,11 @@
 			<version>21.0</version>
 		</dependency>
 		<!--필수 END -->
+		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<version>1.4.197</version>
+		</dependency>
+
 	</dependencies>
 </project>

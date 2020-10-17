@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Oct 15 23:10:00 KST 2020
+#Sat Oct 17 11:37:05 KST 2020
 spring-beans-5.0.10.RELEASE.jar>central=
+spring-beans-5.0.10.RELEASE-sources.jar>central=
 spring-beans-5.0.10.RELEASE.pom>central=

@@ -13,6 +13,10 @@
   <modules>
   	<module>base-remote</module>
   	<module>rest</module>
+  	<module>spring-invoker</module>
+  	<module>MySpringRMI</module>
+  	<module>jms-hornetq</module>
+  	<module>boot-jms</module>
   </modules>
   
   
