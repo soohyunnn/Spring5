@@ -22,9 +22,6 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by iuliana.cosmina on 6/5/17.
- */
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = {"com.apress.prospring5.ch12"})
