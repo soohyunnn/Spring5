@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 11:32:36 KST 2020
+artemis-jms-server-2.6.4.jar>central=
+artemis-jms-server-2.6.4.pom>central=
+artemis-jms-server-2.6.4-sources.jar>central=

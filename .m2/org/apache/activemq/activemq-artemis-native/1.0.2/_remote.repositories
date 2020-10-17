@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 11:46:34 KST 2020
+activemq-artemis-native-1.0.2.jar>central=
+activemq-artemis-native-1.0.2-sources.jar>central=
+activemq-artemis-native-1.0.2.pom>central=

@@ -1,0 +1,28 @@
+spring: 
+  datasource: 
+      driver-class-name: org.h2.Driver
+      url: jdbc:h2:mem:testdb
+      username: prospring5
+      password: prospring5
+      
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 100MB
+      max-request-size: 100MB
+  thymeleaf:
+    enabled: true
+    encoding: UTF-8
+    prefix: classpath:/templates/
+    suffix: .html
+  resources:
+    add-mappings: true
+
+logging:
+  config: classpath:logback.xml
+  level:
+    root: info
+
+mybatis:
+  type-aliases-package: kr/co/sooCoding/service/dao
+  mapper-locations: mybatis/mapper/*.xml

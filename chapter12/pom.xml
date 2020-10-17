@@ -13,6 +13,13 @@
   <modules>
   	<module>base-remote</module>
   	<module>rest</module>
+  	<module>spring-invoker</module>
+  	<module>MySpringRMI</module>
+  	<module>jms-hornetq</module>
+  	<module>boot-jms</module>
+  	<module>boot-rest</module>
+  	<module>amqp-rpc</module>
+  	<module>boot-amqp</module>
   </modules>
   
   

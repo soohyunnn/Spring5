@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: boot-amqp
+Implementation-Version: 2.0.6.RELEASE
+Built-By: sksms
+Implementation-Vendor-Id: com.apress.prospring5
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/chapter12/boot-amqp
+Created-By: Maven Integration for Eclipse
+
