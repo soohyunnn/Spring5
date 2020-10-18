@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Oct 15 23:10:00 KST 2020
+#Sun Oct 18 13:59:32 KST 2020
 transactions-hibernate4-4.0.4.jar>central=
 transactions-hibernate4-4.0.4.pom>central=
+transactions-hibernate4-4.0.4-sources.jar>central=

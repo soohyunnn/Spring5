@@ -465,3 +465,4 @@ ACTIONS: You can try one of the following:
 20-10-11 13:53:17,829 [main] Local heuristic termination of coordinator 192.168.35.213.tm0002300040 with state COMMITTING
 20-10-11 13:53:17,829 [main] Done read of logfile
 20-10-11 13:53:17,830 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\out\tmlog56.log
+20-10-18 14:00:21,675 [main] Logfile closed: C:\Spring5\chapter09\boot-jta\transaction-logs\tmlog-1.log

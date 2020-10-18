@@ -15,10 +15,12 @@ public class SimpleMessageListener{
 
     @JmsListener(destination = "prospring5", containerFactory = "jmsListenerContainerFactory")
     public void onMessage(Message message) {
+    	System.out.println("수신됨1");
         TextMessage textMessage = (TextMessage) message;
-
+        System.out.println("수신됨2");
         try {
             logger.info(">>> 수신됨: " + textMessage.getText());
+            System.out.println("수신됨3");
         } catch (JMSException ex) {
             logger.error("JMS 에러", ex);
         }
