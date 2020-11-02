@@ -13,9 +13,9 @@ import org.springframework.web.multipart.support.StandardServletMultipartResolve
 import org.springframework.web.servlet.config.annotation.*;
 import org.springframework.web.servlet.i18n.CookieLocaleResolver;
 import org.springframework.web.servlet.i18n.LocaleChangeInterceptor;
+import org.springframework.web.servlet.mvc.WebContentInterceptor;
 import org.springframework.web.servlet.theme.CookieThemeResolver;
 import org.springframework.web.servlet.theme.ThemeChangeInterceptor;
-import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import org.springframework.web.servlet.view.UrlBasedViewResolver;
 import org.springframework.web.servlet.view.tiles3.TilesConfigurer;
 import org.springframework.web.servlet.view.tiles3.TilesView;
@@ -27,28 +27,34 @@ import java.util.Locale;
 @ComponentScan(basePackages = {"com.apress.prospring5.ch16"})
 public class WebConfig implements WebMvcConfigurer {
 
-	// 정적 리소스 선언
+	// ���� ���ҽ� ����. �ڹ� ���� ������ ĳ�ø� �߰������� �ʼ��� �ƴ�
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
 		registry.addResourceHandler("/resources/**").addResourceLocations("/")
 				.setCachePeriod(31556926);
 	}
-	
-	@Bean
-	InternalResourceViewResolver viewResolver() {
-		InternalResourceViewResolver resolver = new InternalResourceViewResolver();
-		resolver.setPrefix("/WEB-INF/views/");
-		resolver.setSuffix(".jspx");
-		
-		resolver.setRequestContextAttribute("requestContext");
-		return resolver;
-	}
-	
-	
+
 	@Bean StandardServletMultipartResolver multipartResolver() {
 		return new StandardServletMultipartResolver();
 	}
 
+	@Bean
+	UrlBasedViewResolver tilesViewResolver() {
+		UrlBasedViewResolver tilesViewResolver = new UrlBasedViewResolver();
+		tilesViewResolver.setViewClass(TilesView.class);
+		return tilesViewResolver;
+	}
+
+	@Bean
+	TilesConfigurer tilesConfigurer() {
+		TilesConfigurer tilesConfigurer = new TilesConfigurer();
+		tilesConfigurer.setDefinitions(
+				"/WEB-INF/layouts/layouts.xml",
+				"/WEB-INF/views/**/views.xml"
+		);
+		tilesConfigurer.setCheckRefresh(true);
+		return tilesConfigurer;
+	}
 
 	@Bean
 	public Validator validator() {
@@ -87,7 +93,7 @@ public class WebConfig implements WebMvcConfigurer {
 	public void addInterceptors(InterceptorRegistry registry) {
 		registry.addInterceptor(localeChangeInterceptor());
 		registry.addInterceptor(themeChangeInterceptor());
-		//registry.addInterceptor(webChangeInterceptor());
+		registry.addInterceptor(webChangeInterceptor());
 	}
 
 	@Bean
@@ -106,6 +112,13 @@ public class WebConfig implements WebMvcConfigurer {
 		return new ThemeChangeInterceptor();
 	}
 
+	@Bean
+	WebContentInterceptor webChangeInterceptor() {
+		WebContentInterceptor webContentInterceptor = new WebContentInterceptor();
+		webContentInterceptor.setCacheSeconds(0);
+		webContentInterceptor.setSupportedMethods("GET", "POST", "PUT", "DELETE");
+		return webContentInterceptor;
+	}
 
 	@Bean
 	CookieLocaleResolver localeResolver() {
@@ -135,23 +148,5 @@ public class WebConfig implements WebMvcConfigurer {
 	@Override
 	public void addViewControllers(ViewControllerRegistry registry) {
 		registry.addViewController("/").setViewName("singers/list");
-	}
-	
-	@Bean
-	UrlBasedViewResolver tilesViewResolver() {
-		UrlBasedViewResolver tilesViewResolver = new UrlBasedViewResolver();
-		tilesViewResolver.setViewClass(TilesView.class);
-		return tilesViewResolver;
-	}
-
-	@Bean
-	TilesConfigurer tilesConfigurer() {
-		TilesConfigurer tilesConfigurer = new TilesConfigurer();
-		tilesConfigurer.setDefinitions(
-				"/WEB-INF/layouts/layouts.xml",
-				"/WEB-INF/views/**/views.xml"
-		);
-		tilesConfigurer.setCheckRefresh(true);
-		return tilesConfigurer;
 	}
 }

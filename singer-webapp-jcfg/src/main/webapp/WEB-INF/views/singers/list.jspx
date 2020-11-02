@@ -26,7 +26,7 @@
     	<tbody>
     <c:forEach items="${singers}" var="singer">
     		<tr>
-    			<td>${singer.firstName}</td>
+    			<td><a href="${showSingerUrl}/${singer.id}" >${singer.firstName}</a></td>
     			<td>${singer.lastName}</td>
     			<td><fmt:formatDate value="${singer.birthDate}" /></td>
     		</tr>
