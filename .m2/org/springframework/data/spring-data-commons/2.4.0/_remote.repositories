@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 03 22:51:22 KST 2020
+spring-data-commons-2.4.0.jar>central=
+spring-data-commons-2.4.0-sources.jar>central=
+spring-data-commons-2.4.0.pom>central=
