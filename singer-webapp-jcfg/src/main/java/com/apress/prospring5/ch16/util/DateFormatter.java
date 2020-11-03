@@ -7,6 +7,9 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
+/**
+ * Created by iuliana.cosmina on 7/12/17.
+ */
 public class DateFormatter implements Formatter<Date> {
 	public static final SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
 

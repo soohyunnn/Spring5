@@ -22,12 +22,15 @@ import org.springframework.web.servlet.view.tiles3.TilesView;
 
 import java.util.Locale;
 
+/**
+ * Created by iuliana.cosmina on 8/14/16.
+ */
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = {"com.apress.prospring5.ch16"})
 public class WebConfig implements WebMvcConfigurer {
 
-	// ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ò½ï¿½ ï¿½ï¿½ï¿½ï¿½. ï¿½Ú¹ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä³ï¿½Ã¸ï¿½ ï¿½ß°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê¼ï¿½ï¿½ï¿½ ï¿½Æ´ï¿½
+	// Á¤Àû ¸®¼Ò½º ¼±¾ð. ÀÚ¹Ù ±¸¼º Á¤º¸¿¡ Ä³½Ã¸¦ Ãß°¡ÇßÁö¸¸ ÇÊ¼ö´Â ¾Æ´Ô
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
 		registry.addResourceHandler("/resources/**").addResourceLocations("/")
