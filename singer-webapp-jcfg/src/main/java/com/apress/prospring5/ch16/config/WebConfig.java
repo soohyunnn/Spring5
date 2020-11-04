@@ -22,9 +22,6 @@ import org.springframework.web.servlet.view.tiles3.TilesView;
 
 import java.util.Locale;
 
-/**
- * Created by iuliana.cosmina on 8/14/16.
- */
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = {"com.apress.prospring5.ch16"})
