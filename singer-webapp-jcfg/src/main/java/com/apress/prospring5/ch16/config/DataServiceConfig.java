@@ -18,9 +18,6 @@ import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 import java.util.Properties;
 
-/**
- * Created by iuliana.cosmina on 7/14/17.
- */
 @Configuration
 @EnableJpaRepositories(basePackages = {"com.apress.prospring5.ch16.repos"})
 @ComponentScan(basePackages  = {"com.apress.prospring5.ch16"} )
@@ -34,7 +31,7 @@ public class DataServiceConfig {
 			EmbeddedDatabaseBuilder dbBuilder = new EmbeddedDatabaseBuilder();
 			return dbBuilder.setType(EmbeddedDatabaseType.H2).build();
 		} catch (Exception e) {
-			logger.error("ì„ë² ë””ë“œ DataSource ë¹ˆì„ ìƒì„±í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤!", e);
+			logger.error("ÀÓº£µğµå DataSource ºóÀ» »ı¼ºÇÒ ¼ö ¾ø½À´Ï´Ù!", e);
 			return null;
 		}
 	}
