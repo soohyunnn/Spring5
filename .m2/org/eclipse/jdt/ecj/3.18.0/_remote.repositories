@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 07 11:06:52 KST 2020
+ecj-3.18.0-sources.jar>central=
+ecj-3.18.0.jar>central=
+ecj-3.18.0.pom>central=
